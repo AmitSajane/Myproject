@@ -1,0 +1,17 @@
+// ALERTS
+export const ALERTS_SET_TOAST = 'ALERTS_SET_TOAST';
+
+//COMMON DETAILS
+export const COMMON_DETAILS = 'COMMON_DETAILS';
+
+// AUTH
+export const AUTH_LOADING = 'AUTH_LOADING';
+export const LOAD_USER = 'LOAD_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+
+//WALKER LIST
+export const WALKER_LIST = 'WALKER_LIST';
+
+//COMMON
+export const GENERATE_QUOTE = 'GENERATE_QUOTE';
